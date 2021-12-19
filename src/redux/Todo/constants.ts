@@ -1,0 +1,3 @@
+export const TODO_ADD_TODO = 'TODO_ADD_TODO';
+export const TODO_DELETE_TODO = 'TODO_DELETE_TODO';
+export const TODO_TOGGLE_TODO = 'TODO_TOGGLE_TODO';
